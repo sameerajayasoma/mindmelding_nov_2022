@@ -284,8 +284,8 @@ modules = [
 ]
 
 [[package]]
-org = "sameera"
-name = "mindmelding_nov_2022"
+org = "sam"
+name = "githubmaxstarsservice"
 version = "0.1.0"
 dependencies = [
 	{org = "ballerina", name = "http"},
@@ -293,7 +293,7 @@ dependencies = [
 	{org = "ballerinax", name = "github"}
 ]
 modules = [
-	{org = "sameera", packageName = "mindmelding_nov_2022", moduleName = "mindmelding_nov_2022"}
+	{org = "sam", packageName = "githubmaxstarsservice", moduleName = "githubmaxstarsservice"}
 ]
 
 
