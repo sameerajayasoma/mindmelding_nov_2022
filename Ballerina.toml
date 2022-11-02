@@ -1,0 +1,8 @@
+[package]
+org = "sameera"
+name = "mindmelding_nov_2022"
+version = "0.1.0"
+distribution = "2201.2.2"
+
+[build-options]
+observabilityIncluded = true
